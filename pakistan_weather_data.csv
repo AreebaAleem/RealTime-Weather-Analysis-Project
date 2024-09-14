@@ -1,0 +1,11 @@
+City,Province,Temperature (°C),Feels Like (°C),Min Temp (°C),Max Temp (°C),Humidity (%),Pressure (hPa),Wind Speed (m/s),Cloudiness (%),Weather Description,Longitude,Latitude,Sunrise,Sunset
+Karachi,Sindh,27.9,31.0,27.9,27.9,74,1004,4.63,75,Haze,67.0822,24.9056,01:17 AM,01:37 PM
+Lahore,Punjab,28.99,34.5,28.99,28.99,79,1002,2.06,40,Smoke,74.3436,31.5497,12:46 AM,01:10 PM
+Islamabad,Islamabad,25.47,26.11,25.47,25.47,78,1005,2.21,0,Clear sky,73.1338,33.7104,12:50 AM,01:16 PM
+Quetta,Balochistan,22.64,21.38,22.64,22.64,16,1006,1.59,0,Clear sky,67.0097,30.199,01:16 AM,01:39 PM
+Peshawar,Khyber Pakhtunkhwa,25.08,25.45,25.08,25.08,69,1003,2.06,40,Haze,71.5785,34.008,12:56 AM,01:22 PM
+Faisalabad,Punjab,31.43,30.64,31.43,31.43,34,1001,3.84,0,Clear sky,73.0833,31.4167,12:51 AM,01:15 PM
+Multan,Punjab,29.94,34.89,29.94,29.94,70,1001,0.0,20,Smoke,71.4753,30.1956,12:58 AM,01:21 PM
+Rawalpindi,Punjab,25.69,26.35,25.69,25.69,78,1004,0.89,0,Clear sky,73.0679,33.6007,12:50 AM,01:16 PM
+Sialkot,Punjab,28.83,34.69,28.83,29.9,82,1002,0.0,0,Smoke,74.5431,32.5101,12:45 AM,01:09 PM
+Gujranwala,Punjab,26.74,28.22,26.74,26.74,67,1002,2.82,0,Clear sky,74.1883,32.1617,12:46 AM,01:11 PM
